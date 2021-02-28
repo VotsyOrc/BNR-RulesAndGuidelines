@@ -1,25 +1,54 @@
-This was drafted by wamps and I like it:
+      
+                    Staff Code of Conduct                    
+                    
 
-Mod and IK Code of Conduct
+    Welcome, new staff! Here at Bread and Roses, we are all about creating a welcoming atmosphere for our community members to post. We recommend you take a quick read of this document to make sure we’re all on the same page when it comes to our forum’s goals.                    
 
-Welcome, new mod and/or IK! Here at Bread and Roses, we are all about creating a welcoming atmosphere for our community members to post. We recommend you take a quick read of our vision/mission statement to make sure we’re all on the same page when it comes to our forum’s goals.
+                    Below are some common Dos and Don’ts                    
 
-Below are some common Dos and Don’ts
+Our mission statement for the community:
+    
 
-Do:
+Do:                    
+    - Communicate with your user base! “Community policing” should be the model we strive for, not to be all powerful mods that strike down from on high with our judgements. We encourage you to post in the forums/subforums that you moderate and be accountable to the posters therein.
+    - Remember that you are a part of the community like everyone else; don't hesitate to hang out, discuss, and have fun with others on the site. If you ever feel you cannot judge a situation fairly because you are too personally involved, ask the team for backup, but generally speaking it's healthy and important for you to enjoy the site first and foremost. We don't want an ivory tower mentality, or some sort of Us VS Them.
+    - Stay in touch with fellow mods. Whether you have questions about a forums issue or just to check in and report all is well every now and then. Don’t be a stranger! 
+    - The mods mainly communicate in the mod subforum and the alert group DM on the site. If you have any questions, concerns, or things the mods should know about, do not hesitate to use those channels. Do not discuss mod business on other offsites or Discords.
+    - Check in on your forum/subforum regularly. However, we understand real life takes priority and if you need to step away for a while, we just ask you contact another mod to let them know of your absence.
+    - Be active enough to keep an eye on subforums and reports, but real life always comes first; just let the team know if you are going to be unavaible for a while.
+    - Use positive reinforcement. The best way to encourage good posting is to notice it when it happens and praise the poster for making such a good post. Try to be funny/creative with your praise, this will encourage more posters to post good! 
+    - Clarity and feedback help the users a lot. The rules try to cover as much as possible, but they can never cover everything, especially in the heat of the moment; if you see a particularly good post or interesting discussion, it's good to praise it. Conversely, let users know when a post is not acceptable, especially if it's going to lead to (further) punishment if that sort of posting continues. Even things you think might be obvious should still be communicated clearly and concisely, to leave no room for confusion or misunderstandings.
+   - Have fun! Do things like fun mod contests to encourage content. At the end of the day, this is all about enjoying our time together online, and we want moderating to be a fun and enjoyable experience for you as well.
+   - Have fun! If you can think of a neat activity, contest or other way to engage the users, suggest it to the rest of the team. The same goes for ideas on how to improve things for the users in some fashion. If you see something you got thoughts about, don't be shy about sharing them. We want this to be an enjoyable place for as many people as reasonably possible.                    
+                    
+Don’t:                    
+   - Tolerate bigotry in any form. This includes homophobia, transphobia, racism, et al. The paradox of tolerance has been solved, Nazi punks fuck off.
+   - Tolerate any sort of bigotry, ironic or unironic. This includes but isn't limited to homophobia, transphobia, racism, fascist ideology, uncritical support for cops or landlords, and more. The paradox of tolerance has been solved, nazis can fuck off.
+   [spoiler=a comic that explains the paradox of tolerance][img]https://cultmtl.com/wp-content/uploads/2017/08/tolerance.png[/img][/spoiler]
+   - Be afraid to probate both sides of a heated argument. If you can’t determine (or don’t want to determine) who is right and who is wrong, feel free to give all posters involved a time out, particularly if they are stealing the focus of a thread.
+   - Be afraid to step in when a situation requires action. All your tools are valid to consider, as per our rules. No matter what you do, be able to justify and explain it, and see every tool you have as a step of escalation. Telling people in a thread to knock it off is softer than a probation, and a probation is softer than a ban, so take that into account when choosing actions. Just don't feel paralyzed, you are a mod and are allowed to step in, and if you feel unsure, reach out to the rest of the team for feedback.
 
-    Communicate with your user base! “Community policing” should be the model we strive for, not to be all powerful mods that strike down from on high with our judgements. We encourage you to post in the forums/subforums that you moderate and be accountable to the posters therein.
-    Stay in touch with fellow mods. Whether you have questions about a forums issue or just to check in and report all is well every now and then. Don’t be a stranger!
-    Check in on your forum/subforum regularly. However, we understand real life takes priority and if you need to step away for a while, we just ask you contact another mod to let them know of your absence.
-    Use positive reinforcement. The best way to encourage good posting is to notice it when it happens and praise the poster for making such a good post. Try to be funny/creative with your praise, this will encourage more posters to post good!
-    Have fun! Do things like fun mod contests to encourage content. If posters want funny/wacky probations or punishments, feel free to oblige them. At the end of the day, this is all about enjoying our time together online, and we want moderating to be a fun and enjoyable experience for you as well.
+    - Play favorites. We realize you are human and are biased towards liking certain people and disliking others, but try to be unbiased when it comes to moderation action.
+
+    - Play favorites. Sympathy for users and their mental space, especially in times as rough as ours, is absolutely appropriate and should not be ignored. But in the end of the day, we cannot punish two very similiar actions very differently because we know more about the mental state of user X than we do with user Y. No matter how close we are to a user or how much we like them, at the end of the day, we have to look out for the wellbeing of the community, and that includes consistency and care for everyone, not just a select few.
+
+    - Play therapist. Many users on the site are people we are fond of, some are even people we'd call friends, and that's 100% a good thing. It can just mean that as mods, we find ourselves in situations where our sympathy or biases might outweigh our ability to make a healthy choice. In those cases, please ask a fellow team member to take over. Please also do not mistake your position of forum authority as a position of authority on mental health, or other users' wellbeing; be a good friend as yourself, if you feel up for it, but do NOT feel obligated as a mod to engage more deeply in one's mental health.
+
+    [spoiler=link to the current mental health resource thread]https://breadnroses.net/threads/the-mental-health-resource-wip.1907/[/spoiler]
 
 
-Don’t:
+   - Use moderator powers to settle personal scores. Don’t probate or ban people just for disagreeing with you on a topic (unless that topic is something like “How much of a racist am I allowed to be?”)
+   - Lurk on shitty Nazi discords and try to play Tinker Tailor Soldier Spy (The No PPJs rule)             
+                            
+                            
+    Moderation tools and how they work:
 
-    Tolerate bigotry in any form. The paradox of tolerance has been solved, Nazi punks fuck off.
-    Be afraid to probate both sides of a heated argument. If you can’t determine (or don’t want to determine) who is right and who is wrong, feel free to give all posters involved a time out, particularly if they are stealing the focus of a thread.
-    Play favorites. We realize you are human and are biased towards liking certain people and disliking others, but try to be unbiased when it comes to moderation action.
-    Use moderator powers to settle personal scores. Don’t probate or ban people just for disagreeing with you on a topic (unless that topic is something like “How much of a racist am I allowed to be?”)
-    Lurk on shitty Nazi discords and try to play Tinker Tailor Soldier Spy (The No PPJs rule)
+        
 
+blah
+things to include:
+    - how warnings work
+    - how account approval/spam cleaning works
+    - how using, commenting and handling the report system works
+    - de-escalation methods (and yes, probations are one of them)
+    
